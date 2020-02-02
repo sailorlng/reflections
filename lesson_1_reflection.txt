@@ -1,0 +1,19 @@
+So. I learn how to use "FC" command in PROMT to compare files.(old and new version).It will help to search bugs.Cuz typo can make problems with performing code.
+How it helps?
+I have checked versions.compared codes and compared those parts which were changed.and found the bug
+
+By having easy access to the entire history of a file i can trace all my changes of codes. I can retest previous versions.look for improvements
+
+
+COmmits. I think that creating commits manualy have an advantage.cuz u will control size of your history . autosave will make it big and sometimes not neccesary
+
+Because if you work on a project you might work with several files which is connected.and if u make some changes in 1 file you can affect another one.So making commits and one time of few files will help to see changes which has been done at that moment and which effect it has or has not on others
+
+i want to use git for programming
+for learning how to programm.let's see what will happen
+
+By using Git log i can trace all comits that has been saved
+BY git diff i can check difference between 2 commits.FOr this i have to enter name on 1st and 2nd commit that i want to compare
+
+Confidence from Version control:
+So if i will make some bug i can always trace it by git log.run the previous commit by git checkout and come back to last commit aslo by checking it out
